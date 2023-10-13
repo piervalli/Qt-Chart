@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>chart/ChartJs2QML/animationExample.qml</file>
+        <file>chart/ChartJs2QML/Chart.js</file>
+        <file>chart/ChartJs2QML/Chart.qml</file>
+        <file>chart/ChartJs2QML/example.png</file>
+        <file>chart/ChartJs2QML/LICENSE</file>
+        <file>chart/ChartJs2QML/main.qml</file>
+        <file>chart/ChartJs2QML/README.md</file>
+    </qresource>
+</RCC>
